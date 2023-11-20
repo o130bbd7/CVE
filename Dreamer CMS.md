@@ -27,6 +27,7 @@ https://gitee.com/iteachyou/dreamer_cms/archive/refs/tags/Latest_Stable_Release_
 windows11
 
 ### Vulnerability details
+Log in to the background as an administrator.
 Storage xss vulnerability exists in "column name". Click Edit to change "Column Chinese name" to <img/src/onerror=prompt(1)> and save:
 ![image](https://github.com/o130bbd7/CVE/assets/87507397/8bcd3df3-b878-49bd-afe4-9609460587e1)
 ![image](https://github.com/o130bbd7/CVE/assets/87507397/dc22a4c5-cf04-4c90-bd55-7244d66e2c5c)
